@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Canvas
+  - Floor
+  - OuterWall
+  - Enemy
+  - Item
+  - Stair
+  - MiniMapCamera
+  - DeadObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - ItemLayer
+  - FloorLayer
+  - FloorTargetLayer
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1133538537
+    locked: 0
+  - name: Items
+    uniqueID: 1244878073
+    locked: 0
+  - name: Wall
+    uniqueID: 891104991
+    locked: 0
+  - name: Units
+    uniqueID: 2204110331
+    locked: 0
+  - name: Window
+    uniqueID: 146263791
+    locked: 0
